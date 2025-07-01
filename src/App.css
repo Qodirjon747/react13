@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1220px;
+  margin: 0 auto;
+}
+
+button {
+  width: 211px;
+  height: 49px;
+  border: none;
+  border-radius: 50px;
+  font-size: 18px;
+  color: white;
+  margin: 30px;
+}
+.btnr{
+  background-color: red;
+}
+.btnb{
+  background-color: blue;
+}
+.btng{
+  background-color: yellowgreen;
+}
